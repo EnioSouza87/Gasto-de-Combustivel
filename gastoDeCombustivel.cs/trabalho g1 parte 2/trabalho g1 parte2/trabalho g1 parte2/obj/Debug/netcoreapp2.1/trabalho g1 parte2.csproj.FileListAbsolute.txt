@@ -1,0 +1,11 @@
+C:\Users\Enio\Desktop\trabalho g1 parte 2\trabalho g1 parte2\trabalho g1 parte2\bin\Debug\netcoreapp2.1\trabalho g1 parte2.deps.json
+C:\Users\Enio\Desktop\trabalho g1 parte 2\trabalho g1 parte2\trabalho g1 parte2\bin\Debug\netcoreapp2.1\trabalho g1 parte2.runtimeconfig.json
+C:\Users\Enio\Desktop\trabalho g1 parte 2\trabalho g1 parte2\trabalho g1 parte2\bin\Debug\netcoreapp2.1\trabalho g1 parte2.runtimeconfig.dev.json
+C:\Users\Enio\Desktop\trabalho g1 parte 2\trabalho g1 parte2\trabalho g1 parte2\bin\Debug\netcoreapp2.1\trabalho g1 parte2.dll
+C:\Users\Enio\Desktop\trabalho g1 parte 2\trabalho g1 parte2\trabalho g1 parte2\bin\Debug\netcoreapp2.1\trabalho g1 parte2.pdb
+C:\Users\Enio\Desktop\trabalho g1 parte 2\trabalho g1 parte2\trabalho g1 parte2\obj\Debug\netcoreapp2.1\trabalho g1 parte2.csprojAssemblyReference.cache
+C:\Users\Enio\Desktop\trabalho g1 parte 2\trabalho g1 parte2\trabalho g1 parte2\obj\Debug\netcoreapp2.1\trabalho g1 parte2.csproj.CoreCompileInputs.cache
+C:\Users\Enio\Desktop\trabalho g1 parte 2\trabalho g1 parte2\trabalho g1 parte2\obj\Debug\netcoreapp2.1\trabalho g1 parte2.AssemblyInfoInputs.cache
+C:\Users\Enio\Desktop\trabalho g1 parte 2\trabalho g1 parte2\trabalho g1 parte2\obj\Debug\netcoreapp2.1\trabalho g1 parte2.AssemblyInfo.cs
+C:\Users\Enio\Desktop\trabalho g1 parte 2\trabalho g1 parte2\trabalho g1 parte2\obj\Debug\netcoreapp2.1\trabalho g1 parte2.dll
+C:\Users\Enio\Desktop\trabalho g1 parte 2\trabalho g1 parte2\trabalho g1 parte2\obj\Debug\netcoreapp2.1\trabalho g1 parte2.pdb
